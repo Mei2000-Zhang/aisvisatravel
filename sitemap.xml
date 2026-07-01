@@ -1,29 +1,427 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- RU main pages -->
   <url>
-    <loc>https://mei2000-zhang.github.io/hrdirectkg/</loc>
-    <lastmod>2025-01-27</lastmod>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/</loc>
+    <lastmod>2026-06-29</lastmod>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://mei2000-zhang.github.io/hrdirectkg/kg/</loc>
-    <lastmod>2025-01-27</lastmod>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://mei2000-zhang.github.io/hrdirectkg/en/</loc>
-    <lastmod>2025-01-27</lastmod>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://mei2000-zhang.github.io/hrdirectkg/about/</loc>
-    <lastmod>2025-01-27</lastmod>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/about/</loc>
+    <lastmod>2026-06-29</lastmod>
     <priority>0.7</priority>
   </url>
 
-</urlset>
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/contact/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
 
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/faq/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/forms/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/how-to-get-visa/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/insurance/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/pricing/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- RU visas -->
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/visas/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/visas/china/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/visas/dubai/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/visas/japan/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/visas/schengen/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/visas/schengen/france/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/visas/schengen/germany/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/visas/schengen/hungary/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/visas/schengen/italy/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/visas/schengen/spain/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- RU Canton Fair -->
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/canton-fair-business-tour/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/canton-fair-business-tour/canton-fair-phases/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/canton-fair-business-tour/canton-fair-trip-organization/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/canton-fair-business-tour/how-to-find-suppliers-canton-fair/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/canton-fair-business-tour/how-to-visit-canton-fair/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- KG main pages -->
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/about/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/contact/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/faq/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/forms/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/how-to-get-visa/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/insurance/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/pricing/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- KG visas -->
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/visas/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/visas/china/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/visas/dubai/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/visas/japan/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/visas/schengen/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/visas/schengen/france/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/visas/schengen/germany/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/visas/schengen/hungary/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/visas/schengen/italy/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/visas/schengen/spain/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- KG Canton Fair -->
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/canton-fair-business-tour/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/canton-fair-business-tour/canton-fair-phases/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/canton-fair-business-tour/canton-fair-trip-organization/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/canton-fair-business-tour/how-to-find-suppliers-canton-fair/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/kg/canton-fair-business-tour/how-to-visit-canton-fair/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- EN main pages -->
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/about/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/contact/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/faq/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/forms/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/how-to-get-visa/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/insurance/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/pricing/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- EN visas -->
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/visas/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/visas/china/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/visas/dubai/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/visas/japan/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/visas/schengen/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/visas/schengen/france/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/visas/schengen/germany/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/visas/schengen/hungary/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/visas/schengen/italy/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/visas/schengen/spain/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- EN Canton Fair -->
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/canton-fair-business-tour/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/canton-fair-business-tour/canton-fair-phases/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/canton-fair-business-tour/canton-fair-trip-organization/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/canton-fair-business-tour/how-to-find-suppliers-canton-fair/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mei2000-zhang.github.io/aisvisatravel/en/canton-fair-business-tour/how-to-visit-canton-fair/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
