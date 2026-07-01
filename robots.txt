@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow:
 
-Sitemap: https://mei2000-zhang.github.io/hrdirectkg/sitemap.xml
+Sitemap: https://mei2000-zhang.github.io/aisvisatravel/sitemap.xml
